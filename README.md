@@ -1,5 +1,3 @@
-<img src="https://tylermcginnis.com/tylermcginnis_glasses-300.png" width="300" align="right">
-
 Redux Polls App
 ========
 
@@ -7,9 +5,3 @@ Redux Polls App
 
 ## Hosted Project
 
-[https://tylermcginnis.com/projects/redux-polls/](https://tylermcginnis.com/projects/redux-polls/)
-
-## Notes
-Every video is coincided with a branch. If you want to compare your code with mine or you just want to play around with the code, check out the different branches on this repository.
-
-[Tyler](https://twitter.com/tylermcginnis)
